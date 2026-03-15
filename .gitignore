@@ -25,3 +25,6 @@ Thumbs.db
 
 # history folder
 .history/
+
+# GitHub workflows
+.github/
